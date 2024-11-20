@@ -10,7 +10,7 @@ for(let i=0; i<characters.length; i++)
 //Question 2//
 let firstName = 'Harry';
 let house = 'Gryffindor';
-console.log("Q2: Welcome, Harry of Gryffindor!");
+console.log("Q2: Welcome, ${firstName} of ${house}!");
 
 
 //Question 3//
